@@ -1,0 +1,38 @@
+🏧 ATM Management System (Java)
+
+The ATM Management System is a console-based banking application developed using Java that simulates real-world ATM operations. The system is designed using Object-Oriented Programming (OOP) principles by separating functionalities into different classes such as Withdraw, Deposit, Balance Inquiry, and Transaction History.
+
+📌 Project Description
+
+This application allows users to securely access their account using a PIN-based authentication system and perform essential banking operations like withdrawing money, depositing funds, checking balance, and viewing transaction history. The system also includes constraints like daily withdrawal limits and maintains transaction records dynamically.
+
+✨ Key Features
+🔐 Secure PIN authentication with limited attempts
+💰 Cash withdrawal with daily limit validation
+💵 Deposit functionality
+📊 Real-time balance inquiry
+🧾 Transaction history using ArrayList
+⚙️ Modular design using separate classes (OOP)
+🛠️ Technologies Used
+Java (Core Programming)
+OOP Concepts (Encapsulation, Modularity)
+ArrayList (Transaction storage)
+Scanner (User input handling)
+⚙️ System Workflow
+User enters PIN for authentication
+After successful login, user can:
+Withdraw money (with daily limit check)
+Deposit money
+Check balance
+View transaction history
+All transactions are stored and updated dynamically during runtime
+🎯 Learning Outcomes
+Implemented real-world banking logic using Java
+Applied OOP design principles for modular code
+Handled user input validation and error handling
+Designed a menu-driven application
+🚀 Future Enhancements
+Integration with MySQL using JDBC
+GUI version using Java Swing
+Multi-user account system
+OTP-based authentication
