@@ -68,9 +68,9 @@ public class Atm {
                     t.showHistory(history);
                     break;
 
-                // case 4:
-                //     b.checkBalance(acc);
-                //     break;
+                case 4:
+                    b.checkBalance(acc);
+                    break;
 
                 case 5:
                     System.out.println("Thank you for using ATM");
