@@ -36,3 +36,6 @@ Integration with MySQL using JDBC
 GUI version using Java Swing
 Multi-user account system
 OTP-based authentication
+
+Author
+Amit
